@@ -1,0 +1,36 @@
+/*tags*/
+body {
+  background-color: #eeeeee;
+}
+
+img {
+  width: 180px;
+  height: 180px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #00adb5;
+  width: 5%;
+}
+
+h1, h3 {
+  color: #222831;
+}
+table{
+  border-collapse: collapse;
+}
+
+p {
+  color: #393e46;
+}
+
+a:link, a:visited {
+  color: #00adb5;
+}
+/*class*/
+.buton:hover{
+  background-color: gray;
+}
